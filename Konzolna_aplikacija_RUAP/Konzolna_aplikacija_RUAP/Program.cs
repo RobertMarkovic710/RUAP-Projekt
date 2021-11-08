@@ -7,6 +7,7 @@ namespace Konzolna_aplikacija_RUAP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav iz aplikacije od Robert Marković");
         }
     }
 }
