@@ -8,7 +8,7 @@ namespace Konzolna_aplikacija_RUAP
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pozdrav iz aplikacije od Robert Marković");
-            Console.WriteLine("Moj broj indeksa: No_0034478");
+            //conflict: I deleted college indeks number (as task requested)
         }
     }
 }
