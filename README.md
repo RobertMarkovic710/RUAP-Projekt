@@ -1,1 +1,1 @@
-Moj repozitorij za kolegij RUAP
+Moj LV1 iz kolegija RUAP
